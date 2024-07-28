@@ -10,7 +10,8 @@ def get_context():
 
 context = get_context()
 
-st.title("Question Answering with Transformers")
+st.title("Question Answering on solar system")
+
 st.write("Ask a question based on the content of the file.")
 
 question = st.text_input("Enter your question:")
@@ -19,3 +20,8 @@ if question:
     result = answerer(question=question, context=context)
     answer = result['answer']
     st.write(f"**Answer:** {answer}")
+
+st.divider()
+st.warning("Please have a look at the context if desired output is not obtained", icon="⚠️")
+
+st.write(context)
