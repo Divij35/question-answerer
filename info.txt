@@ -1,0 +1,104 @@
+The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. It was formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, forming the Sun and a protoplanetary disc. The Sun is a typical star that maintains a balanced equilibrium by the fusion of hydrogen into helium at its core, releasing energy from its outer photosphere. Astronomers classify it as a Gtype mainsequence star.
+
+1. Planets:
+     Terrestrial Planets: Mercury, Venus, Earth, and Mars. These planets have solid surfaces.
+     Gas Giants: Jupiter and Saturn, mainly composed of gases and liquids.
+     Ice Giants: Uranus and Neptune, composed mostly of ices and gas.
+
+2. Dwarf Planets: At least nine dwarf planets, including Ceres, Orcus, Pluto, Haumea, Quaoar, Makemake, Gonggong, Eris, and Sedna.
+
+3. Small Solar System Bodies: Asteroids, comets, centaurs, meteoroids, and interplanetary dust clouds, found mainly in the asteroid belt and Kuiper belt.
+
+4. Natural Satellites: Six planets, seven dwarf planets, and other bodies have orbiting natural satellites, commonly called 'moons'.
+
+ Solar Wind and Heliopause: The Solar System is constantly flooded by the Sun's charged particles, the solar wind, forming the heliosphere. Around 75–90 astronomical units (AU) from the Sun, the solar wind is halted, resulting in the heliopause, marking the boundary to interstellar space. The outermost region of the Solar System is the theorized Oort cloud, the source for longperiod comets, extending to a radius of 2,000–200,000 AU.
+
+ Formation and Evolution: The Solar System formed at least 4.568 billion years ago from the gravitational collapse of a region within a large molecular cloud. As the presolar nebula collapsed, it began to flatten into a protoplanetary disc with a hot, dense protostar at the center. The planets formed by accretion from this disc.
+
+Terrestrial Planets:
+ Formed close to the Sun where it was warm enough for metals and silicates to exist in solid form.
+
+Giant Planets:
+ Formed beyond the frost line where it was cool enough for volatile icy compounds to remain solid. 
+
+Within 50 million years, the protostar in the center began thermonuclear fusion, becoming a mainsequence star. Solar wind from the Sun created the heliosphere and swept away the remaining gas and dust from the protoplanetary disc.
+
+The Solar System remains in a relatively stable state. Although stable for billions of years, it is technically chaotic and may eventually be disrupted. The Sun's mainsequence phase will last about 10 billion years. In roughly 5 billion years, the Sun will become a red giant, potentially vaporizing Mercury and Venus, and rendering Earth uninhabitable. Eventually, the Sun will become a white dwarf, surrounded by a planetary nebula.
+
+ Inner Solar System: Includes Mercury, Venus, Earth, Mars, and the asteroid belt.
+ Outer Solar System: Includes Jupiter, Saturn, Uranus, Neptune, and the Kuiper belt.
+
+Composition: The Sun contains 99.86% of the Solar System's known mass. Jupiter and Saturn together comprise nearly 90% of the remaining mass. The Sun and the gas giants are composed mainly of hydrogen and helium.
+
+Orbits: The planets and most large objects orbit the Sun in the same direction as the Sun's rotation, following Kepler's laws of planetary motion. The angular momentum of the Solar System is dominated by the planets, particularly Jupiter.
+
+Distances and Scales: The Solar System is vast, with Neptune being 30 AU from the Sun. Various scale models have been created to convey the relative sizes and distances within the Solar System.
+
+The habitable zone of the Solar System is conventionally located in the inner Solar System, where conditions might allow for liquid water. Subsurface oceans on moons of the outer planets might also harbor conditions for life.
+
+The Solar System is unique compared to many extrasolar systems, lacking closein planets and superEarths. The planets' orbits are nearly circular, and the system lacks the intermediatesized planets typical of other systems.
+
+The Sun, a G2type mainsequence star, dominates the Solar System by mass and energy output. It is a population I star, indicating it formed in the Milky Way's spiral arms and has a higher abundance of elements heavier than hydrogen and helium. The Sun's magnetic field and solar wind create the heliosphere, influencing space weather and interactions within the Solar System.
+
+The asteroid belt and the outer Solar System contain a variety of celestial bodies, each with unique characteristics. Here's a summary of some of the most notable objects and regions:
+
+ The Four Largest Asteroids
+1. Ceres (2.55–2.98 AU)
+    Largest object in the asteroid belt, diameter: 940 km.
+    Only dwarf planet in the asteroid belt.
+    Surface: Carbon, frozen water, hydrated minerals.
+    Signs of past cryovolcanic activity.
+    Very thin water vapor atmosphere.
+
+2. Vesta (2.13–3.41 AU)
+    Secondlargest object in the asteroid belt.
+    Surface: Basaltic and metamorphic material.
+    Features: Two giant craters, Rheasilvia and Veneneia.
+    Fragments survive as Vesta asteroid family and HED meteorites on Earth.
+
+3. Pallas (2.15–2.57 AU)
+    Thirdlargest object in the asteroid belt.
+    Has its own asteroid family.
+    Predicted surface composition: Silicates.
+
+4. Hygiea
+    Fourthlargest object in the asteroid belt.
+    Not as wellstudied or visited by spacecraft.
+
+ Asteroid Families and Resonances
+ Hilda asteroids: In a 3:2 resonance with Jupiter.
+ Trojans: Bodies located at Lagrange points (L4 and L5) of planets' orbits. Jupiter has the most trojans, followed by Neptune.
+
+ Outer Solar System
+ Giant Planets: Jupiter, Saturn, Uranus, Neptune.
+ Characteristics:
+   Jupiter and Saturn: Gas giants composed mainly of hydrogen and helium.
+   Uranus and Neptune: Ice giants with significant compositions of water, methane, ammonia, etc.
+
+ Notable Features and Moons
+ Jupiter (4.95–5.46 AU)
+   Largest planet, with strong magnetosphere.
+   95 confirmed satellites, including the Galilean moons: Ganymede, Callisto, Io, and Europa.
+
+ Saturn (9.08–10.12 AU)
+   Distinctive ring system.
+   146 confirmed satellites, including Titan, the only satellite with a substantial atmosphere.
+
+ Uranus (18.3–20.1 AU)
+   Axial tilt >90°, causing extreme seasonal variations.
+   28 confirmed satellites, including Titania, Oberon, Umbriel, Ariel, and Miranda.
+
+ Neptune (29.9–30.5 AU)
+   Known for its dynamic atmosphere and strong magnetic field.
+   16 confirmed satellites, including Triton, which has geysers of nitrogen gas.
+
+ Centaurs
+ Icy cometlike bodies between Jupiter and Neptune.
+ Largest known centaur: 10199 Chariklo, which has a ring system.
+
+ TransNeptunian Region
+ Kuiper Belt: Extends between 30 and 50 AU from the Sun.
+   Composed mainly of small icy bodies.
+   Notable objects: Pluto, Haumea, Makemake, Quaoar, Orcus.
+  
+ Scattered Disc: Overlapping region with the Kuiper Belt, containing objects with high eccentricity orbits.
