@@ -1,7 +1,12 @@
 from transformers import pipeline
 import streamlit as st
 
-answerer = pipeline("question-answering", model='bert-large-uncased-whole-word-masking-finetuned-squad')
+@st.cache_resource
+def load_model():
+    return pipeline("question-answering", model='distilbert-base-uncased-distilled-squad')
+
+answerer = load_model()
+
 
 def get_context():
     with open("info.txt") as file:
